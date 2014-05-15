@@ -1,0 +1,42 @@
+Program:         insertionSort
+Version:         1.0
+Date:            05/14/2014
+Website:         http://www.HumairAhmed.com
+Lead Developer:  Humair Ahmed 
+
+
+License:
+
+Open source software being distributed under GPLv2 license. For more 
+information see here:
+
+http://www.gnu.org/copyleft/gpl.html. 
+ 
+Can edit and redistribute code as long as above reference of authorship 
+is kept within the code.
+
+
+Program Description:
+
+Written for educational purposes. Program takes a list of numbers from a file
+named 'UNSORTED' and sorts the list while counting each iteration. Displays 
+the final sorted list at end and how long it took to sort in seconds. Results 
+are also written to a file named 'SORTED'. Program also demonstrates how to use
+many file functions from the 'os' library.
+
+Ex:
+admin@linux-b3bo:~/GitHub/PythonInsertionSort/src> python3 insertionSort.py 
+
+Sorted after 8 iterations.
+Sorted:   [1, 2, 3, 4, 5, 6, 8, 9, 10]
+
+Overall Time: 3.0994415283203125e-06 seconds
+
+
+
+Dependencies:
+
+Python 3.3.0 was used to write this program. 
+
+
+
