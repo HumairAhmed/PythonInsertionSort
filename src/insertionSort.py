@@ -21,7 +21,7 @@
 # Can edit and redistribute code as long as above reference of authorship is kept within the code.
 #/****************************************************************/
 
-import sys, time, os
+import time, os
 
 
 #function reads unsorted list from file and returns unsorted list
